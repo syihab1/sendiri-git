@@ -1,3 +1,3 @@
-Belajar
+<marquee>Belajar
 Memakai
-GIT
+GIT</marquee>
